@@ -1,5 +1,17 @@
 body{
-    background-color: rgb(189, 237, 141);
-    margin: 0;
+    background-color: rgb(195, 231, 238);
+    margin: 20px;
     padding: 0;
+color: red;    
+
+}
+
+.heading{
+    text-align: center;
+    color: blue;
+    font-family: sans-serif;
+    background-color: cornsilk;
+    width: fit-content;
+   margin-left: 38%;
+   font-size: 45px;
 }
